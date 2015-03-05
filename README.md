@@ -5,4 +5,4 @@ RedditCrawler starts with the default subreddits and looks in the sidebar for th
 
 The results were then cleaned and visualized using Gephi.
 
-TODO: This code is old and the directories are messy. Need to modify the code to clean up the results (anchor links got caught as separate subreddits).
+TODO: This code is old (three years) and the directories are messy. Need to modify the code to clean up the results (anchor links got caught as separate subreddits). Additionally, we should take advantage of Reddit's API instead of downloading and parsing entire HTML documents.
